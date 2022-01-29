@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(165, 155, 155, 0.719);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-weight: 300; 
+    box-sizing: border-box;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  .ficha{
+    padding: 0 15px;
+    background-color: rgba(206, 203, 170, 0.658);
+    overflow: hidden;
+    text-align: center;
+  }
